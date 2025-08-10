@@ -1,0 +1,8 @@
+GameProject {
+ ID "GOIArsenal2"
+ GUID "66150744862C1ED6"
+ TITLE "GOI Arsenal 2"
+ Dependencies {
+  "615CC2D870A39838" "58D0FB3206B6F859"
+ }
+}
